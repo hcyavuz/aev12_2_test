@@ -20,7 +20,7 @@
    <static_values>
       <row>
          <client>100</client>
-         <value1>STOP;0001000003;2018-08-10</value1>
+         <value1>GO;0001000003;2018-08-10</value1>
          <validity_range>FREI</validity_range>
          <key>CLIENT_STATUS</key>
       </row>
